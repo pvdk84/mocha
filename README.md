@@ -1,4 +1,8 @@
 # mocha
-Work in progress: example of a mocha test project
 
-test
+Example of a mocha test project for javascript.
+
+Tests for a simple calculator.
+
+Sources:
+- www.javascript.info (copied their html file);
